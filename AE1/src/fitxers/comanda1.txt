@@ -1,0 +1,73 @@
+
+Fil numero 1: Manant a fabricar la pesa  I
+
+Fil numero 2: Manant a fabricar la pesa  I
+
+Fil numero 3: Manant a fabricar la pesa  I
+
+Fil numero 4: Manant a fabricar la pesa  I
+
+Fil numero 5: Manant a fabricar la pesa  S
+
+Fil numero 6: Manant a fabricar la pesa  S
+
+Fil numero 7: Manant a fabricar la pesa  S
+
+Fil numero 8: Manant a fabricar la pesa  S
+
+Capacitat maxima de fils. Esperant a que acaben...
+
+
+La pesa  I  Ha sigut fabricada. ( I_20231111_180708 ).
+
+La pesa  I  Ha sigut fabricada. ( I_20231111_180708 ).
+
+La pesa  I  Ha sigut fabricada. ( I_20231111_180708 ).
+
+La pesa  I  Ha sigut fabricada. ( I_20231111_180708 ).
+
+La pesa  S  Ha sigut fabricada. ( S_20231111_180712 ).
+
+La pesa  S  Ha sigut fabricada. ( S_20231111_180712 ).
+
+La pesa  S  Ha sigut fabricada. ( S_20231111_180712 ).
+
+La pesa  S  Ha sigut fabricada. ( S_20231111_180712 ).
+
+Fil numero 1: Manant a fabricar la pesa  J
+
+Fil numero 2: Manant a fabricar la pesa  J
+
+Fil numero 3: Manant a fabricar la pesa  J
+
+Fil numero 4: Manant a fabricar la pesa  J
+
+Fil numero 5: Manant a fabricar la pesa  O
+
+Fil numero 6: Manant a fabricar la pesa  O
+
+Fil numero 7: Manant a fabricar la pesa  O
+
+Fil numero 8: Manant a fabricar la pesa  O
+
+Capacitat maxima de fils. Esperant a que acaben...
+
+
+La pesa  O  Ha sigut fabricada. ( O_20231111_180714 ).
+
+La pesa  O  Ha sigut fabricada. ( O_20231111_180714 ).
+
+La pesa  O  Ha sigut fabricada. ( O_20231111_180714 ).
+
+La pesa  O  Ha sigut fabricada. ( O_20231111_180714 ).
+
+La pesa  J  Ha sigut fabricada. ( J_20231111_180716 ).
+
+La pesa  J  Ha sigut fabricada. ( J_20231111_180716 ).
+
+La pesa  J  Ha sigut fabricada. ( J_20231111_180716 ).
+
+La pesa  J  Ha sigut fabricada. ( J_20231111_180716 ).
+
+
+Generant LOGS
