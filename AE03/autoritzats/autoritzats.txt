@@ -1,0 +1,4 @@
+Usuaris autoritzats
+Nom usuari:nomUsuari
+
+Nom usuari:laia
